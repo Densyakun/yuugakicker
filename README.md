@@ -1,0 +1,2 @@
+# yuugakicker
+サーバーにyuugachannelがJoinした時にyuugachannelをkickするプラグインです。
